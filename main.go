@@ -1,4 +1,4 @@
-package main
+package go_module_git
 
 import fmt "Fmt"
 
